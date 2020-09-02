@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringS3Amazon
+Implementation-Version: 0.0.1
+Built-By: kishor
+Implementation-Vendor-Id: com.grokonez.s3
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringS3Amazon
+Created-By: Maven Integration for Eclipse
+
